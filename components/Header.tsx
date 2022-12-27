@@ -1,4 +1,4 @@
-import Image from 'next/Image'
+import Image from 'next/image'
 import { useEffect, useState } from 'react'
 import { FiArrowUpRight } from 'react-icons/fi'
 import { AiOutlineDown } from 'react-icons/ai'
